@@ -17,7 +17,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: auto;
     padding: 20px 10%;
     background: hsl(61, 94%, 51%);
     display: flex;
@@ -49,7 +49,7 @@ body {
 }
 
 .main {
-    min-height: 110vh;
+    min-height: 100vh;
     background: url("cover.jpg") no-repeat;
     background-size: cover;
     background-position: center;
