@@ -17,7 +17,7 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    width: auto;
+    width: 100%;
     padding: 20px 10%;
     background: hsl(61, 94%, 51%);
     display: flex;
