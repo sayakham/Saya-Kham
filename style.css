@@ -277,13 +277,13 @@ body {
 
 .option-list .option {
     width: 100%;
-    padding: 12px;
+    padding: 10px;
     background: transparent;
     border: 2px solid rgba(255, 255, 255, .2);
     color: #fff;
     border-radius: 3px;
     font-size: 17px;
-    margin: 15px 0;
+    margin: 10px 0;
     cursor: pointer;
     transition: .3s;
 }
